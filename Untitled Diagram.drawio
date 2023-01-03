@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T10:52:38.894Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="q4pCf3Pd9xj4Ei1X8V9n" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T11:06:37.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="iS6ZtaHPqFC0iPlnkzIu" version="20.6.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1666" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -62,11 +62,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3cH5R70fnghZpc7tB1yR-1" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.web_server;" vertex="1" parent="1">
-          <mxGeometry x="1056.75" y="10" width="76.5" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="3cH5R70fnghZpc7tB1yR-2" value="TeamServer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="996.75" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3cH5R70fnghZpc7tB1yR-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
           <mxGeometry x="1045" y="150" width="100" height="100" as="geometry" />
@@ -88,12 +85,21 @@
         </mxCell>
         <mxCell id="3cH5R70fnghZpc7tB1yR-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="150" as="sourcePoint" />
-            <mxPoint x="1090" y="100" as="targetPoint" />
+            <mxPoint x="1092" y="150" as="sourcePoint" />
+            <mxPoint x="1091.75" y="78" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3cH5R70fnghZpc7tB1yR-8" value="CS Beacon" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1065.25" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cH5R70fnghZpc7tB1yR-9" value="Linode Cloud" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1115.25" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3cH5R70fnghZpc7tB1yR-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux_Non_Azure.svg;" vertex="1" parent="1">
+          <mxGeometry x="1065.25" y="32" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="3cH5R70fnghZpc7tB1yR-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow" vertex="1" parent="1">
+          <mxGeometry x="1067.25" y="100" width="50" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
