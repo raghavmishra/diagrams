@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T06:10:32.974Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="m2cCXogtG6F4cMDinL92" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T06:11:21.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="szmWIuvcoSXGO1kkQA58" version="22.1.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1434" dy="940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#FFF2CC" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="NuI87_JJMGOtZgtVZiwR-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
           <mxGeometry x="960.8" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NuI87_JJMGOtZgtVZiwR-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FFE45E;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
+        <mxCell id="NuI87_JJMGOtZgtVZiwR-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#b85450;fillColor=#f8cecc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="971.6" y="338" width="58.4" height="44" as="geometry" />
         </mxCell>
         <mxCell id="NuI87_JJMGOtZgtVZiwR-5" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Attacker Machine(Pupy)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontColor=#5AA9E6;" vertex="1" parent="1">
