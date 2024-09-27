@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PL87Uc_Rq2B-KHmNzyDa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="236" width="146" height="60" as="geometry" />
+          <mxGeometry x="121" y="204" width="146" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PL87Uc_Rq2B-KHmNzyDa-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="385" width="120" height="60" as="geometry" />
@@ -16,11 +16,11 @@
         <mxCell id="PL87Uc_Rq2B-KHmNzyDa-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="83" y="475" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PL87Uc_Rq2B-KHmNzyDa-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="475" y="236" width="120" height="60" as="geometry" />
+        <mxCell id="PL87Uc_Rq2B-KHmNzyDa-6" value="&lt;font color=&quot;#9ac7bf&quot;&gt;version.dll&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#9ac7bf&quot;&gt;exports&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;strokeWidth=2;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="458" y="204" width="184" height="86" as="geometry" />
         </mxCell>
         <mxCell id="PL87Uc_Rq2B-KHmNzyDa-7" value="&lt;font color=&quot;#9ac7bf&quot;&gt;Process&lt;br&gt;(OneDrive.exe)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="134" y="251" width="121" height="30" as="geometry" />
+          <mxGeometry x="133.5" y="235" width="121" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
