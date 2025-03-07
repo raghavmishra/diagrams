@@ -10,7 +10,7 @@
         <mxCell id="_PqFZ1HzRURmT83oFa9N-2" value="Cloud" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#21C0A5;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#5C5C5C;sketch=0;shape=mxgraph.sitemap.cloud;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="10" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_PqFZ1HzRURmT83oFa9N-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006658;labelBackgroundColor=none;fontColor=#5C5C5C;" parent="1" vertex="1">
+        <mxCell id="_PqFZ1HzRURmT83oFa9N-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;labelBackgroundColor=none;fontColor=#5C5C5C;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="10" width="400" height="190" as="geometry" />
         </mxCell>
         <mxCell id="_PqFZ1HzRURmT83oFa9N-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Attacking&lt;br&gt;Infrastructure&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#5C5C5C;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -46,10 +46,10 @@
         <mxCell id="_PqFZ1HzRURmT83oFa9N-14" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.workstation_pc;rounded=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="790" y="600" width="53" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="_PqFZ1HzRURmT83oFa9N-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="_PqFZ1HzRURmT83oFa9N-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#007FFF;fontColor=#5C5C5C;fillColor=none;strokeWidth=2;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="400" width="320" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="_PqFZ1HzRURmT83oFa9N-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="_PqFZ1HzRURmT83oFa9N-16" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=none;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="600" y="399" width="400" height="281" as="geometry" />
         </mxCell>
         <mxCell id="_PqFZ1HzRURmT83oFa9N-17" value="&lt;font&gt;avengershq.corp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF6666;fontStyle=1;fontFamily=Verdana;" parent="1" vertex="1">
