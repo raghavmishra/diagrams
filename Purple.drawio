@@ -130,6 +130,18 @@
         <mxCell id="G2rxZPcfdrlcwnSySgxY-2" value="&lt;font style=&quot;color: rgb(255, 102, 102);&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Elastic&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="438" y="814" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="G2rxZPcfdrlcwnSySgxY-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;curved=1;strokeWidth=2;exitX=0.975;exitY=0.959;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="868" as="sourcePoint" />
+            <mxPoint x="430" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G2rxZPcfdrlcwnSySgxY-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=2;strokeColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G2rxZPcfdrlcwnSySgxY-6" value="&lt;font style=&quot;color: rgb(255, 102, 102);&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Incidence Response Zone&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="369" y="1035" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
