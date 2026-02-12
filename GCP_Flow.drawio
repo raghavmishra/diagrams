@@ -81,9 +81,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="p4TlT5VHhrKuJaqJcc4_-8" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#F694C1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.linux;fontColor=#095C86;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="647" width="44.8" height="44.8" as="geometry" />
-        </mxCell>
         <mxCell id="p4TlT5VHhrKuJaqJcc4_-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#AF45ED;fontColor=#095C86;fillColor=none;strokeWidth=3;dashed=1;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="245" width="522" height="455" as="geometry" />
         </mxCell>
